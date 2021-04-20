@@ -1,0 +1,30 @@
+{
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "your_account": "Your account"
+  },
+  "home": {
+    "listen": "Listen to Great Music!",
+    "subheader": "Add your own songs or listen to songs uploaded by other members."
+  },
+  "login": {
+    "email": "Email",
+    "password": "Password"
+  },
+  "register": {
+    "age": "Age",
+    "confirm_password": "Confirm Password",
+    "country": "Country",
+    "email": "Email",
+    "name": "Name",
+    "password": "Password",
+    "tos": "Accept terms of service",
+    "user_type": "Account type",
+    "user_type_artist": "Artist",
+    "user_type_listener": "Listener"
+  },
+  "song": {
+    "comment_count": "No comments | 1 Comment | {count} Comments"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "auth": {
+    "login": "Logga in",
+    "register": "Registrera",
+    "your_account": "Ditt konto"
+  },
+  "home": {
+    "listen": "Lyssna på bra musik!",
+    "subheader": "Ladda upp dina egna sånger eller lysna på låtar från andra medlemmar"
+  },
+  "login": {
+    "email": "Email",
+    "password": "Lösenord"
+  },
+  "register": {
+    "age": "Ålder",
+    "confirm_password": "Bekräfta Lösenord",
+    "country": "Land",
+    "email": "Email",
+    "name": "Namn",
+    "password": "Lösenord",
+    "tos": "Bekräfta användarvilkor",
+    "user_type": "Kontotyp",
+    "user_type_artist": "Artist",
+    "user_type_listener": "Lyssnare"
+  },
+  "song": {
+    "comment_count": "Inga Kommentarer | 1 Kommentar | {count} Kommentarer"
+  }
+}
